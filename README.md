@@ -11,3 +11,11 @@ Cambridge Crime Analysis: The primary data set used for this analysis is the "Cr
 - Power query - Data Cleaning
 - Power BI - Data Visualization, creating reports and Dashboard.
 
+### Data Collection and Data Cleaning
+
+In the initial data preparation phase, we performed the following tasks:
+
+  1. Data was downloaded from kaggle
+  2. Data loading and inspection.
+  3. Handling missing values.
+  4. Data cleaning and formatting was done on Power query.
